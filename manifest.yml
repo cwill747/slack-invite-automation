@@ -1,0 +1,4 @@
+---
+applications:
+- name:    slack-invite-automation
+  memory:  128M

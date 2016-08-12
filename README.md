@@ -9,6 +9,7 @@ and
 [Socket.io's slack page](http://socket.io/slack/).
 
 [![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
+[![Deploy to Bluemix](https://bluemix.net/deploy/button.png)](https://bluemix.net/deploy?repository=https://github.com/cwill747/slack-invite-automation)
 
 ## Setting
 fill out `config.js` as your infomation.
